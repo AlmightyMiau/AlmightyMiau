@@ -1,6 +1,6 @@
 - Hi, I’m @AlmightyMiau
 - I’m interested in: uhhhhhhhhhh
-- I’m currently learning: c++ at college, 
+- I’m currently learning: c++ at college, The Odin Project: Foundations
 - I’m looking to collaborate on: uhhhhhhhhhhhhhhhhhh
 - How to reach me: almightymeow612@gmail.com
 - Pronouns: They/She
